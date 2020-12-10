@@ -16,7 +16,7 @@
     <thead>
       <tr>
         <th>#</th>
-        <th>Firstname</th>
+        <th>imran shaik</th>
         <th>Lastname</th>
         <th>Age</th>
         <th>City</th>
